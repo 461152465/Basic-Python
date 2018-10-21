@@ -1,3 +1,4 @@
-import  re
-s = 'I have a dog, I have a cat'
-print(re.findall(r'I have a dog|cat',s))
+import urllib.request
+
+response = urllib.request.urlopen("http://www.baidu.com")
+print(response.read().decode('UTF-8'))
