@@ -1,5 +1,5 @@
 
-[TOC]
+
 
 # why choose to learn python
 
@@ -29,10 +29,10 @@
 
 ```cmd 
 mongod --bind_ip 0.0.0.0 --logpath C:\MongoDB\Server\3.4\data\logs\mongo.log --logappend --dbpath C:\MongoDB\Server\3.4\data\db --port 27017 --serviceName "MongoDB" --serviceDisplayName "MongoDB" --install
- ```
- 
+```
+
  ### Python库
- 
+
   - [x] 更换pip源
   - [x] urilib re
   - [x] request
@@ -47,12 +47,12 @@ mongod --bind_ip 0.0.0.0 --logpath C:\MongoDB\Server\3.4\data\logs\mongo.log --l
   - [x] flask
   - [x] django
   - [x] jupyter （支持Markdown，可以在线运行Python代码）
- 
- 
+
+
  # Spider
- 
+
  ## Steps
- 
+
  - 通过Http库发送Request请求
  - 获取Response相应
  - 解析内容 
@@ -90,8 +90,6 @@ with open('路径','wb') as f:
 
 ## Urllib库
 
-### 
-
  - Urllib是Python内置库
 	 - urllib.request 请求
 	 - urllib.error 异常处理
@@ -107,6 +105,5 @@ with open('路径','wb') as f:
 
 
  
- 
- 
+
  
