@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2476ac98-4daa-48aa-8bc5-093233e89054" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicGrammar/python_grammar/support.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicGrammar/python_grammar/test_import.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicGrammar/python_grammar/test_input_output.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicGrammar/python_grammar/test_isinstance.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicGrammar/python_grammar/test_oo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BasicGrammar/python_grammar/test_exception.py" afterPath="$PROJECT_DIR$/BasicGrammar/python_grammar/test_exception.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicGrammar/test_urllib/response1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BasicGrammar/test_urllib/response2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,14 +20,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test_urllib2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BasicGrammar/test_urllib/test_urllib2.py">
+      <file leaf-file-name="response1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BasicGrammar/test_urllib/response1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="response2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicGrammar/test_urllib/response2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,6 +61,8 @@
         <option value="$PROJECT_DIR$/BasicGrammar/python_grammar/test_exception.py" />
         <option value="$PROJECT_DIR$/BasicGrammar/python_grammar/test_import.py" />
         <option value="$PROJECT_DIR$/BasicGrammar/python_grammar/test_isinstance.py" />
+        <option value="$PROJECT_DIR$/BasicGrammar/test_urllib/response1.py" />
+        <option value="$PROJECT_DIR$/BasicGrammar/test_urllib/response2.py" />
       </list>
     </option>
   </component>
@@ -154,7 +161,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.test_isinstance">
+  <component name="RunManager" selected="Python.response1">
     <configuration default="false" name="test_exception" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,6 +226,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Learn-Python" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicGrammar/python_grammar/test_isinstance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="response1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BasicGrammar/test_urllib" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Learn-Python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicGrammar/test_urllib/response1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -357,18 +381,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.test_exception" />
       <item index="1" class="java.lang.String" itemvalue="Python.test_import" />
       <item index="2" class="java.lang.String" itemvalue="Python.test_input_output" />
       <item index="3" class="java.lang.String" itemvalue="Python.test_isinstance" />
+      <item index="4" class="java.lang.String" itemvalue="Python.response1" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.test_isinstance" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test_input_output" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test_import" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test_exception" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.response1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test_isinstance" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test_input_output" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test_import" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test_exception" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +420,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24980174" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -488,8 +514,24 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicGrammar/test_urllib/response2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicGrammar/test_urllib/response1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

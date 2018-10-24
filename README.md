@@ -96,10 +96,6 @@ with open('路径','wb') as f:
 	 - urllib.parse url解析
 	 - urllib.robotparser
 
-```python
-
-```
-
 
 
 
