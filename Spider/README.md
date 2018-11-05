@@ -41,7 +41,7 @@ mongod --bind_ip 0.0.0.0 --logpath C:\MongoDB\Server\3.4\data\logs\mongo.log --l
 
  # Spider
 
- ## Steps
+ ## 爬虫步骤
 
  - 通过Http库发送Request请求
  - 获取Response相应
@@ -51,18 +51,6 @@ mongod --bind_ip 0.0.0.0 --logpath C:\MongoDB\Server\3.4\data\logs\mongo.log --l
      - beautifulsoup
      - pyquery
      - xpath
-
-
-
-### 抓取图片Demo
-
-```python 
-import requests
-response = requests.get('url')
-with open('路径','wb') as f:
-	f.write(reponse.content)
-	f.close()
-```
 
 ### 解决JavaScript渲染
 
@@ -77,11 +65,3 @@ with open('路径','wb') as f:
  - MySQL
  - 非关系型数据库
  - 二进制文件（图片视频）
-
-## Urllib库
-
- - Urllib是Python内置库
-    - urllib.request 请求
-     - urllib.error 异常处理
-     - urllib.parse url解析
-     - urllib.robotparser
